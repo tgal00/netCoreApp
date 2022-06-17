@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoffeeShops.Web
+build_property.RootNamespace = CoffeeShops.Web
+build_property.ProjectDir = C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/_AddMenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxfQWRkTWVudUl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/_CoffeeShopFilter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxfQ29mZmVlU2hvcEZpbHRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/_CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxfQ3JlYXRlT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/_IndexList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxfSW5kZXhMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/CoffeeShop/_MenuItemsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcFxfTWVudUl0ZW1zTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ASP_PROJEKT/CoffeeShops/CoffeeShops.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tmvtib6vb5

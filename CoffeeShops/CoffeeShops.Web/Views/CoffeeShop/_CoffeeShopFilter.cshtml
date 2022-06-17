@@ -1,0 +1,20 @@
+﻿@using CoffeeShops.Web.Models
+
+@model CoffeeShopFilterModel
+<form action="@Url.Action("Index")" method="post" id="filterForm">
+    <div class="container mt-5">
+        <div class="row justify-content-center  ">
+            <div class="col-lg-6">
+
+                <div class="input-group ">
+                    <input asp-for="City" type="text" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;" class="form-control form-control-lg " placeholder="City">
+                    <button class="btn btn-success " style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;" type="button" onclick="filterCoffeeShops()">Search</button>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</form>
+
+

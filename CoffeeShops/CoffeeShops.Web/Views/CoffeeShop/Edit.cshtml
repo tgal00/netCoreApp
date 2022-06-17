@@ -1,0 +1,63 @@
+﻿@model CoffeeShops.Model.CoffeeShop
+
+<div class="row justify-content-center g-3 mt-5 mb-5">
+            <nav aria-label="breadcrumb">
+    <ol class="breadcrumb shadow-lg p-2" style="border-radius:10px">
+        <li class="breadcrumb-item "><a asp-action="Index">Coffee Shops</a></li>
+            <li class="breadcrumb-item "><a asp-action="Manage">Manage</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Edit</li>
+    </ol>
+</nav>
+
+    <div class="col-md-7">
+
+
+
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="ID" />
+            <partial name="_CreateOrEdit" />
+        </form>
+    </div>
+
+    <div class="col-md-5">
+        <div class="row g-3">
+            <div class="col-12 ">
+                <form asp-action="AddMenuItem">
+                    <input type="hidden" asp-for="ID" />
+                    <partial name="_AddMenuItem" , model="new MenuItem()" />
+                </form>
+            </div>
+            <div class="col-12">
+                <div id="menuItems">
+                    <partial name="_MenuItemsList" , model="new List<MenuItem>()" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+<script type="text/javascript">
+    
+    $(document).ready(function(){
+        
+        $.ajax({
+            url: "@Url.Action("GetMenuItems", new {id = Model.ID})",
+            method:"GET",
+            success:function(html){
+                console.log(html);
+                $("#menuItems").html(html);
+            }
+        })
+    });
+
+    function deleteMenuItem(id) {
+        $.ajax({
+            url: "/coffeeShop/deleteMenuItem/-99".replace("-99",id),
+            method: "DELETE"
+        });
+    }
+
+</script>
+}

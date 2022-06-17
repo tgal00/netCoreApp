@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoffeeShops.Model/1.0.0": {
+        "runtime": {
+          "CoffeeShops.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeeShops.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+﻿@model List<CoffeeShop>
+
+<div >
+    <partial name="_CoffeeShopFilter" model = "new CoffeeShopFilterModel()"/>
+</div>
+
+<div id="coffeeShopList">
+    <partial name="_IndexList" model=@Model />
+</div>
+
+
+@section Scripts{
+
+<script>
+    $(document).ready(filterCoffeeShops());
+
+    function filterCoffeeShops() {
+        var formData = $("#filterForm").serialize();
+        $.ajax({
+            url: "@Url.Action("FilterAjax", new CoffeeShopFilterModel())",
+            method: "POST",
+            data: formData,
+            success: function (html) {
+                $("#coffeeShopList").html(html);
+            }
+        });
+    }
+</script>
+}

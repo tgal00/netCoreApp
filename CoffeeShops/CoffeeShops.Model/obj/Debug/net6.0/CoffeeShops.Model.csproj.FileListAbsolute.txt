@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\bin\Debug\net6.0\CoffeeShops.Model.deps.json
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\bin\Debug\net6.0\CoffeeShops.Model.dll
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\bin\Debug\net6.0\CoffeeShops.Model.pdb
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\CoffeeShops.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\CoffeeShops.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\CoffeeShops.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\CoffeeShops.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\CoffeeShops.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\CoffeeShops.Model.dll
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\refint\CoffeeShops.Model.dll
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\CoffeeShops.Model.pdb
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.Model\obj\Debug\net6.0\ref\CoffeeShops.Model.dll

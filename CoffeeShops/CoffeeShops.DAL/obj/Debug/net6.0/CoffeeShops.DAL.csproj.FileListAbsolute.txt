@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\bin\Debug\net6.0\CoffeeShops.DAL.deps.json
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\bin\Debug\net6.0\CoffeeShops.DAL.runtimeconfig.json
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\bin\Debug\net6.0\CoffeeShops.DAL.dll
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\bin\Debug\net6.0\CoffeeShops.DAL.pdb
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\bin\Debug\net6.0\CoffeeShops.Model.dll
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\bin\Debug\net6.0\CoffeeShops.Model.pdb
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.csproj.CopyComplete
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.dll
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\refint\CoffeeShops.DAL.dll
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.pdb
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\CoffeeShops.DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\ASP_PROJEKT\CoffeeShops\CoffeeShops.DAL\obj\Debug\net6.0\ref\CoffeeShops.DAL.dll
